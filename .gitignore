@@ -1,0 +1,11 @@
+# Secrets and private keys
+*.pem
+*.key
+id_*
+!id_*.pub
+.env
+
+# OS-generated files
+.DS_Store
+.Spotlight-V100
+.Trashes
